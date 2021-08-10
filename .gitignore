@@ -1,0 +1,10 @@
+.idea
+.env
+.venv
+venv
+*.pot
+*.py[co]
+__pycache__
+MANIFEST
+Bio/Data/propy/propy_machine_data_*
+Bio/Data/mmkgap/machine_data_*
